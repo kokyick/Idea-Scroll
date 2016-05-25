@@ -1,0 +1,202 @@
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\csc.exe
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\vbc.exe
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\IdeaScroll-Backend.dll.config
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\IdeaScroll-Backend.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\IdeaScroll-Backend.pdb
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Antlr3.Runtime.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\EntityFramework.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Newtonsoft.Json.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Owin.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Helpers.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.Owin.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Mvc.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Optimization.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Razor.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\WebGrease.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Newtonsoft.Json.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Helpers.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Mvc.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Optimization.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Razor.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Antlr3.Runtime.pdb
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\EntityFramework.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\bin\System.Web.Http.Owin.xml
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.csprojResolveAssemblyReference.cache
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.dll
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.pdb
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\obj\Debug\IdeaScroll_Backend.Migrations.Initial.resources
+C:\Users\Donavan\documents\visual studio 2015\Projects\IdeaScroll-Backend\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.csproj.GenerateResource.Cache
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.csprojResolveAssemblyReference.cache
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll_Backend.Migrations.Initial.resources
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.csproj.GenerateResource.Cache
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll-Backend.pdb
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\csc.exe
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\vbc.exe
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\IdeaScroll-Backend.dll.config
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\IdeaScroll-Backend.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\IdeaScroll-Backend.pdb
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Antlr3.Runtime.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\EntityFramework.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\EntityFramework.SqlServer.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Data.Edm.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Data.OData.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.StorageClient.Async.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Newtonsoft.Json.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Owin.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Spatial.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Helpers.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.Owin.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Mvc.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Optimization.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Razor.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Validation.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\WebGrease.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Data.Edm.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Data.OData.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.WindowsAzure.StorageClient.Async.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Spatial.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Newtonsoft.Json.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Helpers.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Mvc.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Optimization.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Razor.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Validation.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Antlr3.Runtime.pdb
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\EntityFramework.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\EntityFramework.SqlServer.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\System.Web.Http.Owin.xml
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\de\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\es\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\fr\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\it\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ja\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ko\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\ru\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll_Backend.Migrations.Initial2.resources
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll_Backend.Migrations.Initial3.resources
+C:\Users\Donavan\Documents\Visual Studio 2015\Idea Scroll\IdeaScroll-Backend\obj\Debug\IdeaScroll_Backend.Migrations.date.resources
